@@ -1,2 +1,3 @@
-# ajax
-http://27050.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/for/AJAX-master/index.html
+# AJAX
+
+Live Link: http://25953.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/fro/ajax/
